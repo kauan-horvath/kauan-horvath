@@ -49,15 +49,15 @@ def start_hiring_process(data_source: dict):
 ---
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px; border: none;">
     <tr>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="assets/data-animation.gif" width="400" style="display: block;">
+      <td align="center" valign="middle" width="75%" style="border: none; padding: 0;">
+        <img src="assets/data-animation.gif" style="width: 100%; display: block; border: none; border-radius: 4px;">
       </td>
-      <td align="center" valign="middle" style="border: none; padding-left: 30px;">
-        <img src="https://img.icons8.com/wired/128/FFFFFF/hexagon.png" width="130">
+      <td align="center" valign="middle" width="25%" style="border: none; padding-left: 20px;">
+        <img src="https://img.icons8.com/wired/128/FFFFFF/hexagon.png" style="width: 100%; max-width: 130px; display: block; margin: 0 auto; border: none;">
         <br>
-        <p><b>Visual Narrative<br>Specialist</b></p>
+        <p style="margin: 0; font-family: sans-serif;"><b>Visual Narrative<br>Specialist</b></p>
       </td>
     </tr>
   </table>
