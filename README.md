@@ -46,9 +46,22 @@ def start_hiring_process(data_source: dict):
     for platform, info in data_source.items():
         typewriter_effect(f"executing_connect_to('{platform}')")
 ```
-<p align="center">
-<img src="assets/data-animation.gif" alt="demonstration gif" width="100%">
-</p>
+---
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle" style="border: none;">
+        <img src="assets/data-animation.gif" width="400" style="display: block;">
+      </td>
+      <td align="center" valign="middle" style="border: none; padding-left: 30px;">
+        <img src="https://img.icons8.com/wired/128/FFFFFF/hexagon.png" width="130">
+        <br>
+        <p><b>Visual Narrative<br>Specialist</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
