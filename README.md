@@ -26,7 +26,6 @@ It serves as a laboratory where I transform complex ideas and creative chaos int
 ## 📂 Organization
 - **/python**: All Python-related development.
   - `core-projects`: End-to-end applications and refined solutions.
-  - `daily-challenges`: Consistent practice with AI-evaluated logic.
   - `raw-sketches`: Early stage concepts and experimental scripts.
 
 ---
