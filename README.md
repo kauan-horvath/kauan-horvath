@@ -55,9 +55,9 @@ def start_hiring_process(data_source: dict):
         <img src="assets/data-animation.gif" style="width: 100%; display: block; border: none; border-radius: 4px;">
       </td>
       <td align="center" valign="middle" width="25%" style="border: none; padding-left: 20px;">
-        <img src="https://img.icons8.com/wired/128/FFFFFF/hexagon.png" style="width: 100%; max-width: 130px; display: block; margin: 0 auto; border: none;">
+        <img src="assets/hexagon-badge-nobkg.png" style="width: 100%; max-width: 130px; display: block; margin: 0 auto; border: none;">
         <br>
-        <p style="margin: 0; font-family: sans-serif;"><b>Visual Narrative<br>Specialist</b></p>
+        <p style="margin: 0; font-family: sans-serif;"><b>H0RV4TH<br>Specialist</b></p>
       </td>
     </tr>
   </table>
