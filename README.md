@@ -38,7 +38,7 @@ MY_DATA = {
     "LinkedIn": "in/kauanhorvath",
     "Instagram": "@Just_Horvath",
     "E-mail": "kauanhorvath1996@gmail.com",
-    "Whatsapp": "+55 11 95491-0195"
+    "Whatsapp": "+55 11 95492-0195"
 }
 
 def start_hiring_process(data_source: dict):
