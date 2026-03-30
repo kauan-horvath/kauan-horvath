@@ -71,7 +71,7 @@ def start_hiring_process(data_source: dict):
     </tr>
   </table>
 </div>
-
+ 
 ---
 
 ## 🔗 Let's Connect
