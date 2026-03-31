@@ -2,33 +2,45 @@
   <img src="assets/github-banner.png" alt="Kauan Horvath - Turning Chaos into Code" width="100%">
 </p>
 
-# Turning Chaos into Code
-
 <p align="left">
   <a href="https://docs.python.org/3/">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Docs" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git SCM" />
-  </a>
-
-  <a href="https://code.visualstudio.com/updates">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Updates" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml">
+    <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg" alt="Lint Status" />
   </a>
 </p>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <p>This repository is a systematic log of my journey through software engineering and logic.</p>
-      <p>It serves as a <b>laboratory</b> where I transform complex ideas and creative chaos into structured, functional code.</p>
+    <td width="60%" valign="middle" style="border: none;">
+      <div align="left">
+        <h1 style="border: none; margin: 0; padding: 0;">Turning Chaos into Code</h1>
+      </div>
     </td>
     <td width="40%" align="right" valign="top" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<p>This repository is a <b>systematic log</b> of my journey through software engineering and logic.</p>
+<p>It serves as a <b>laboratory</b> where I transform complex ideas and creative chaos into structured, functional code.</p>
 
 ## 📂 Organization
 - **/python**: All Python-related development.
