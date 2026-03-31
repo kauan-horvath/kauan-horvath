@@ -28,7 +28,7 @@
   <tr>
     <td width="60%" valign="middle" style="border: none;">
       <div align="left">
-        <h1 style="border: none; margin: 0; padding: 0;">Turning Chaos into Code</h1>
+        <img src="assets/turning-chaos-title.gif" alt="Kauan Horvath - Turning Chaos into Code" width="100%">
       </div>
     </td>
     <td width="40%" align="right" valign="top" style="border: none;">
