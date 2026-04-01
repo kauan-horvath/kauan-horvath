@@ -18,7 +18,7 @@
         <img src="assets/github-banner.png" alt="Kauan Horvath - Turning Chaos into Code" width="100%" style="display: block;">
       </td>
       <td width="40%" align="right" valign="middle" style="border: none; padding: 0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" style="display: block;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=4" alt="GitHub Streak" width="100%" style="display: block;" />
       </td>
     </tr>
   </table>
