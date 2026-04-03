@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-banner-2.png" height="200" style="margin-right: -4px;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" />
+  <img src="assets/github-banner-2.png" height="195" style="margin-right: -4px;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" />
 </p>
 
 ## 💡 The Concept
