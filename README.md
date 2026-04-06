@@ -6,7 +6,7 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="VS Code" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>&nbsp;
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ENGLISH-FLUENT-2EA043?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Fluent" />
 </p>
@@ -17,17 +17,15 @@
 
 ## 💡 The Concept
 > **Turning raw ideas into reliable code.**
-> This laboratory is a systematic log of my journey through Python and software engineering. Here, every script is a step toward mastering the art of **structured logic**.
+> This laboratory is a systematic log of my journey through software engineering. Here, every script is a step toward mastering **scalable logic** and structured architecture.
 
-## 📂 Organization
-- **/python**: All Python-related development.
-  - `core-projects`: End-to-end applications and refined solutions.
-  - `raw-sketches`: Early-stage concepts and experimental scripts.
-      - `fundamentals`: echnical foundation, including sandbox, web scraping, and showcases.
-      - `notes`: Idea documentation and decision logs (.md files).
-      - `assets`: Visual assets and project media.
+## 📂 Organization (Scalable Architecture)
+- **[`/care-projects`](./care-projects)**: The "Crown Jewels." End-to-end applications and refined solutions.
+- **[`/knowledge-run`](./knowledge-run)**: The "Speedrun Arena." Structured study logs (Automation, Web Stack, Database).
+  - `notes`: Technical reflections, architecture dilemmas, and decision logs.
+- **[`/experimenting`](./experimenting)**: The Laboratory. Sandbox testing and fundamental logic using the **Blank Model** pattern.
+- **[`/assets`](./assets)**: Visual assets, project media, and branding.
 
-> *"Design is not just what it looks like and feels like. Design is how it works."*
 ---
 
 ```python
@@ -43,7 +41,7 @@ def start_hiring_process(data_source: dict):
     print("===== [ CONTACT INTERFACE ] =====")
     for platform, info in data_source.items():
         typewriter_effect(f"executing_connect_to('{platform}')")
-```
+````
 ---
 
 <div align="center">
@@ -64,9 +62,9 @@ def start_hiring_process(data_source: dict):
 ## 📈 Course Progress
 
 ### 01 - Automation & Data
-![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=orange&logo=python&logoColor=white)
-![Access Ortega](https://img.shields.io/badge/Access_Ortega-67%25-blue?logo=autocad&logoColor=white&style=flat)
-![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-orange?logo=autocad&logoColor=white&style=flat)
+![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white)
+![Access Ortega](https://img.shields.io/badge/Access_Ortega-67%25-0077B5?logo=autocad&logoColor=white&style=flat)
+![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-F05033?logo=autocad&logoColor=white&style=flat)
 ![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)
 
 ### 02 - Web Stack
@@ -83,7 +81,7 @@ def start_hiring_process(data_source: dict):
   <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kauanhorvath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/just_horvath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kauanhorvath@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kauanhorvath@exemplo.com"><img src="https://img.shields.io/badge/Email-F05033?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://letterboxd.com/H0rvath/"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=undefined" /></a><a href="https://letterboxd.com/h0rvath/reviews/"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" /></a>
   
 </p>
