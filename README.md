@@ -3,20 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
-  <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
-  <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>&nbsp;
+   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ENGLISH-FLUENT-2EA043?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Fluent" />
 </p>
 
 <p align="center">
-  <img src="assets/github-banner-2.png" height="190" style="margin-right: -4px;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" />
+  <img src="assets/github-banner-wrapped.png" height="194" style="margin-right: 10px;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" />
 </p>
 
 ## 💡 The Concept
