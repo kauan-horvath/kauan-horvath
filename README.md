@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="assets/turning-chaos-title.gif" alt="Kauan Horvath - Turning Chaos into Code" width="100%">
+   <img src="assets/turning-chaos-title-2.gif" alt="Kauan Horvath - Turning Chaos into Code" width="100%">
 </p>
 
 <p align="center">
