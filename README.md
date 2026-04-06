@@ -61,12 +61,21 @@ def start_hiring_process(data_source: dict):
   </table>
 </div>
 
-<p align="right">
-  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml">
-    <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg" alt="Lint Status" />
-  </a>
-</p>
+## 📈 Course Progress
 
+### 01 - Automation & Data
+![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=orange&logo=python&logoColor=white)
+![Access Ortega](https://img.shields.io/badge/Access_Ortega-67%25-blue?logo=autocad&logoColor=white&style=flat)
+![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-orange?logo=autocad&logoColor=white&style=flat)
+![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)
+
+### 02 - Web Stack
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white)
+
+### 🛡️ Quality & Safety
+![Lint Status](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg)
   
 ## 🔗 Let's Connect
 
