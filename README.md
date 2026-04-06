@@ -7,7 +7,11 @@
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>&nbsp;
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ENGLISH-FLUENT-2EA043?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Fluent" />
 </p>
 
@@ -78,10 +82,15 @@ def start_hiring_process(data_source: dict):
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kauanhorvath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/just_horvath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kauanhorvath@exemplo.com"><img src="https://img.shields.io/badge/Email-F05033?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://letterboxd.com/H0rvath/"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=undefined" /></a><a href="https://letterboxd.com/h0rvath/reviews/"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" /></a>
-  
+      <div style="line-height: 1;">
+        <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" style="margin-bottom: 5px;"></a>
+        <a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLTEuMDI2IDAtMS44NTktLjgzNC0xLjg1OS0xLjg1OXMuODMzLTEuODU5IDEuODU5LTEuODU5IDEuODU5LjgzNCAxLjg1OSAxLjg1OS0uODMzIDEuODU5LTEuODU5IDEuODU5em0xMyAxMi4yNjhoLTN2LTUuNjI3YzAtMS40MTgtLjAxMS0zLjI0Mi0xLjk3NS0zLjI0Mi0xLjk3OCAwLTIuMjgxIDEuNTQ0LTIuMjgxIDIuOTg0djUuODg0aC0zdi0xMWgzdjEuNTRoLjA0MWMuNDE3LS43OSAxLjQzNi0xLjYyMiAyLjk1NC0xLjYyMiAzLjE2IDAgMy43NDIgMi4wOCAzLjc0MiA0Ljc4NHY2LjI5OHoiLz48L3N2Zz4=" alt="LinkedIn" height="25" style="margin-bottom: 5px;"></a>
+        <a href="https://www.instagram.com/just_horvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25" style="margin-bottom: 5px;"></a>
+        <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" style="margin-bottom: 5px;"></a>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://letterboxd.com/H0rvath/"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=undefined" /></a><a href="https://letterboxd.com/h0rvath/reviews/"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" /></a>
+      </div>
 </p>
