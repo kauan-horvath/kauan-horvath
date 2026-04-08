@@ -83,7 +83,7 @@ def start_hiring_process(data_source: dict):
 
 ### 🛡️ Quality & Safety
 ![Lint Status](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg)
-
+[![Cisco Learn-A-Ton 25](https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf)
 
 
 
