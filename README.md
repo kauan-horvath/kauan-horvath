@@ -97,8 +97,6 @@ def start_hiring_process(data_source: dict):
         <a href="https://www.instagram.com/just_horvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25" style="margin-bottom: 5px;"></a>
         <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" style="margin-bottom: 5px;"></a>
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://letterboxd.com/H0rvath/"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=undefined" /></a><a href="https://letterboxd.com/h0rvath/reviews/"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" /></a>
       </div>
 </p>
