@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="https://img.shields.io/badge/web_scraping-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="Web Scraping" /></a><a href="https://support.microsoft.com/en-us/access"><img src="https://img.shields.io/badge/Access-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Microsoft Access" /></a><a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ENGLISH-FLUENT-2EA043?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Fluent" />
 </p>
 
@@ -46,44 +46,44 @@ def start_hiring_process(data_source: dict):
 ````
 
 ----
-
 <div align="left">
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 1000px;">
     <tr>
-      <td align="center" valign="middle" width="30%" style="padding: 10px; border: none;">
+      <td align="center" valign="middle" width="35%" style="padding: 10px; border: none;">
         <img src="assets/h0rv4th-badge.gif" width="280" style="display: block; margin: 0 auto;" alt="Horvath Logo">
       </td>
       <td align="left" valign="middle" style="padding: 10px 0px 10px 15px; border: none; font-family: sans-serif;">
         <strong style="font-size: 1.2em; color: #f0f6fc;">Cisco Networking Academy</strong><br>
         <span style="font-size: 1.0em; color: #1BA0D7; font-weight: bold;">Learn-A-Thon 2025</span><br>
-        <p style="font-size: 0.9em; color: #8b949e; line-height: 1.5; margin: 8px 0 0 0; max-width: 500px;">
-          I am a dedicated tech enthusiast constantly refining my skills in digital infrastructure. <br>This Learn-A-Thon was a marathon focused on networking fundamentals and scalable architecture. I actively participate in these challenges to ensure my technical foundation remains solid and up to date with industry standards. I believe that mastering the basics is the first step toward building complex, reliable systems. <br><br> I ⚡ a well-structured network and the logic behind efficient data flow.
-        </p>
+        <p style="font-size: 0.9em; color: #8b949e; line-height: 1.5; margin: 8px 0 0 0; max-width: 650px;">
+          I am a dedicated tech enthusiast constantly refining my skills in digital infrastructure. <br>
+          This Learn-A-Thon was a marathon focused on networking fundamentals and scalable architecture. I actively participate in these challenges to ensure my technical foundation remains solid and up to date with industry standards. I believe that mastering the basics is the first step toward building complex, reliable systems. <br><br>
+          I ⚡ a well-structured network and the logic behind efficient data flow.
         </p>
       </td>
     </tr>
   </table>
 </div>
-
-----
 <br>
 
-## 🎓 Education & Technical Certifications
+---
+<span style="font-size: 2em; font-weight: bold;">🎓 Education & Technical Certifications</span>
 
+>(click to access the *_finished_* courses certificates)
 ### 01 - Automation & Data
-[![Access Ortega](https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf)
-![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-F05033?logo=autocad&logoColor=white&style=flat)
-![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white)
-![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)
+[![Access Ortega](https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf)&nbsp;
+![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-F05033?logo=autocad&logoColor=white&style=flat)&nbsp;
+![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white)&nbsp;
+![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)&nbsp;
 
 ### 02 - Web Stack
-![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white)
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white)&nbsp;
 
 ### 🛡️ Quality & Safety
-[![Cisco Learn-A-Ton 25](https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf)
-![Lint Status](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg)
+[![Cisco Learn-A-Ton 25](https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf)&nbsp;
+![Lint Status](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg)&nbsp;
 
 <!-- CONTACT AREA ----------------->
 ## 🔗 Let's Connect
