@@ -9,7 +9,10 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="https://img.shields.io/badge/web_scraping-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="Web Scraping" /></a><a href="https://support.microsoft.com/en-us/access"><img src="https://img.shields.io/badge/Access-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Microsoft Access" /></a><a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ENGLISH-FLUENT-2EA043?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Fluent" />
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/EF%20SET%20Certificate.pdf">
+  <img src="https://img.shields.io/badge/ENGLISH-ADVANCED-E040FB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Advanced" />
+</a>
+</a>
 </p>
 
 <p align="center">
@@ -69,19 +72,25 @@ def start_hiring_process(data_source: dict):
 ---
 <span style="font-size: 2em; font-weight: bold;">🎓 Education & Technical Certifications</span>
 
->(click to access the *_finished_* courses certificates)
+(click to access the *_finished_* courses certificates)</p>
+
 ### 01 - Automation & Data
+
 [![Access Ortega](https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf)&nbsp;
-![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-45%25-F05033?logo=autocad&logoColor=white&style=flat)&nbsp;
+![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-45%25-brown?logo=autocad&logoColor=white&style=flat)&nbsp;
 ![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white)&nbsp;
 ![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)&nbsp;
 
 ### 02 - Web Stack
+
 ![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white)&nbsp;
 
-### 🛡️ Quality & Safety
+### 🛡️ Professional Proficiency & Quality
+
+[![English Advanced](https://img.shields.io/badge/English_C1_Advanced-100%25-E040FB?logo=googletranslate&logoColor=white&style=flat)](https://cert.efset.org/en/SZGV5D)&nbsp;
+[![Coursera UX](https://img.shields.io/badge/Coursera_UX_Design-100%25-0056D2?logo=coursera&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Coursera-UX-fundamentals.pdf)&nbsp;
 [![Cisco Learn-A-Ton 25](https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf)&nbsp;
 ![Lint Status](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint.yml/badge.svg)&nbsp;
 
@@ -95,6 +104,6 @@ def start_hiring_process(data_source: dict):
         <a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLTEuMDI2IDAtMS44NTktLjgzNC0xLjg1OS0xLjg1OXMuODMzLTEuODU5IDEuODU5LTEuODU5IDEuODU5LjgzNCAxLjg1OSAxLjg1OS0uODMzIDEuODU5LTEuODU5IDEuODU5em0xMyAxMi4yNjhoLTN2LTUuNjI3YzAtMS40MTgtLjAxMS0zLjI0Mi0xLjk3NS0zLjI0Mi0xLjk3OCAwLTIuMjgxIDEuNTQ0LTIuMjgxIDIuOTg0djUuODg0aC0zdi0xMWgzdjEuNTRoLjA0MWMuNDE3LS43OSAxLjQzNi0xLjYyMiAyLjk1NC0xLjYyMiAzLjE2IDAgMy43NDIgMi4wOCAzLjc0MiA0Ljc4NHY2LjI5OHoiLz48L3N2Zz4=" alt="LinkedIn" height="25" style="margin-bottom: 5px;"></a>
         <a href="https://www.instagram.com/just_horvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25" style="margin-bottom: 5px;"></a>
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="25" style="margin-bottom: 5px;"></a><a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="25" style="margin-bottom: 5px;"></a>
+        <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="24" style="margin-bottom: 8px;"></a><a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="24" style="margin-bottom: 8px;"></a>
       </div>
 </p>
