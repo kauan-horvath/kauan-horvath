@@ -72,7 +72,7 @@ def start_hiring_process(data_source: dict):
 >(click to access the *_finished_* courses certificates)
 ### 01 - Automation & Data
 [![Access Ortega](https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat)](https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf)&nbsp;
-![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-28%25-F05033?logo=autocad&logoColor=white&style=flat)&nbsp;
+![Access Vasconcelos](https://img.shields.io/badge/Access_Vasconcelos-45%25-F05033?logo=autocad&logoColor=white&style=flat)&nbsp;
 ![Python](https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white)&nbsp;
 ![VBA Excel](https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat)&nbsp;
 
