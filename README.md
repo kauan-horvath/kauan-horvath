@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="https://img.shields.io/badge/web_scraping-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="Web Scraping" /></a><a href="https://support.microsoft.com/en-us/access"><img src="https://img.shields.io/badge/Access-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Microsoft Access" /></a><a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/EF%20SET%20Certificate.pdf">
   <img src="https://img.shields.io/badge/ENGLISH-ADVANCED-E040FB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Advanced" />
 </a>
