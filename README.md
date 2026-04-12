@@ -105,7 +105,7 @@ def start_hiring_process(data_source: dict):
 [![Lint Markdown](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml/badge.svg)](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml)
 [![Lint HTML](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml/badge.svg)](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml)
 
-> God knows how much time i expect better formating all these files kk
+> God knows how much time i spent at better formating all these files kk
 
 <!-- CONTACT AREA ----------------->
 
