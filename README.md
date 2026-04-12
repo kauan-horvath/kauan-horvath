@@ -1,4 +1,5 @@
 <!-- BANNER AREA ----------------->
+
 <p align="center">
    <img src="assets/turning-chaos-title-2.gif" alt="Kauan Horvath - Turning Chaos into Code" width="100%">
 </p>
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-banner-wrapped.png" height="195" style="margin-right: 0px;"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" />
+  <img src="assets/github-banner-wrapped.png" height="195" style="margin-right: 0px;" alt="seila"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" alt="seila">
 </p>
 
 <!-- TEXTS AREA ----------------->
@@ -105,7 +106,7 @@ def start_hiring_process(data_source: dict):
 [![Lint Markdown](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml/badge.svg)](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml)
 [![Lint HTML](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml/badge.svg)](https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml)
 
-> God knows how much time i spent at better formating all these files kk
+> Countless hours were spent standardizing and formatting these files. LOL
 
 <!-- CONTACT AREA ----------------->
 
