@@ -49,8 +49,9 @@
 KAUAN_DATA = {
     "Email": "kauanhorvath1996@gmail.com",
     "WhatsApp": "+55 11 95492-0195",
-    "Status": "Available (maybe) and Highly Caffeinated"
+    "Status": "Available (maybe) and Highly Caffeinated",
 }
+
 
 def hire_this_guy(coffee_included=True):
     if coffee_included:
@@ -60,12 +61,12 @@ def hire_this_guy(coffee_included=True):
         return "Welcome aboard!"
 
     raise Exception("""
-    [ CRITICAL FAILURE ] Error 402: Coffee Required.
-    ================================================
-    > FIX ACTION : Deploy offer or send a direct message.
-    > CONNECTION : https://linkedin.com/in/kauanhorvath
-    ================================================
-    """)
+        [ CRITICAL FAILURE ] Error 402: Coffee Required.
+        ================================================
+        > FIX ACTION : Deploy offer or send a direct message.
+        > CONNECTION : https://linkedin.com/in/kauanhorvath
+        ================================================
+        """)
 ```
 
 <div align="left">
