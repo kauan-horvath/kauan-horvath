@@ -92,72 +92,80 @@ def hire_this_guy(coffee_included=True):
   <span style="font-size: 2em; font-weight: bold;">🎓 Education & Technical Certifications</span><br>
 </p><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.9em; color: #8b949e;">(click to access the <em><strong>finished</strong></em> courses certificates)</span></p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
-  <tr>
-    <td valign="top" width="50%" style="border: none;">
-      <h3 style="margin-top: 0;">01 - Automation & Data</h3>
-      <img src="https://img.shields.io/badge/Access_Vasconcelos-45%25-brown?logo=autocad&logoColor=white&style=flat" alt="Access Vasconcelos" style="margin-bottom: 6px;"><br>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat" alt="Access Ortega" style="margin-bottom: 6px;">
-      </a><br>
-      <img src="https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat" alt="VBA Excel" style="margin-bottom: 6px;"><br>
-      <img src="https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white" alt="Python" style="margin-bottom: 6px;"><br>
-      <h3 style="margin-top: 25px;">03 - Professional Proficiency</h3>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat" alt="Cisco Learn-A-Ton 25" style="margin-bottom: 6px;">
-      </a><br>
-      <a href="https://cert.efset.org/en/SZGV5D" target="_blank">
-        <img src="https://img.shields.io/badge/English_C1_Advanced-100%25-E040FB?logo=googletranslate&logoColor=white&style=flat" alt="English Advanced" style="margin-bottom: 6px;">
-      </a><br>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Coursera-UX-fundamentals.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Coursera_UX_Design-100%25-0056D2?logo=coursera&logoColor=white&style=flat" alt="Coursera UX" style="margin-bottom: 6px;">
-      </a><br>
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <h3 style="margin-top: 0;">02 - Web Stack</h3>
-      <img src="https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white" alt="HTML5 & CSS3" style="margin-bottom: 6px;"><br>
-      <img src="https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white" alt="JavaScript" style="margin-bottom: 6px;"><br>
-      <img src="https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white" alt="Angular" style="margin-bottom: 6px;">
-      <h3 style="margin-top: 25px;">🛡️ Quality and audit</h3>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml" target="_blank">
-        <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml/badge.svg" alt="Lint Markdown" style="margin-bottom: 6px;">
-      </a><br>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-python.yml" target="_blank">
-        <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-python.yml/badge.svg" alt="Lint Python" style="margin-bottom: 6px;">
-      </a><br>
-      <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml" target="_blank">
-        <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml/badge.svg" alt="Lint HTML" style="margin-bottom: 6px;">
-      </a><br><br>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <h3 style="margin-top: 0;">01 - Automation & Data</h3>
+  <img src="https://img.shields.io/badge/Access_Vasconcelos-45%25-brown?logo=autocad&logoColor=white&style=flat" alt="Access Vasconcelos">
+  <br>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/microsoft-access-completion.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Access_Ortega-100%25-green?logo=autocad&logoColor=white&style=flat" alt="Access Ortega">
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/VBA_Excel-0%25-lightgrey?logo=infinityfree&logoColor=white&style=flat" alt="VBA Excel">
+  <br>
+  <img src="https://img.shields.io/static/v1?label=Python&message=24%25&color=F05033&logo=python&logoColor=white" alt="Python">
+
+  <h3 style="margin-top: 20px;">02 - Web Stack</h3>
+  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-0%25-lightgrey?logo=html5&logoColor=white" alt="HTML5 & CSS3">
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-0%25-lightgrey?logo=javascript&logoColor=white" alt="JavaScript">
+  <br>
+  <img src="https://img.shields.io/badge/Angular-0%25-lightgrey?logo=angular&logoColor=white" alt="Angular">
+
+  <h3 style="margin-top: 20px;">03 - Professional Proficiency</h3>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Learn-A-Thon_2025_certificate_kauanhorvath_completion.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_Learn--A--Ton_2025-100%25-1BA0D7?logo=Cisco&logoColor=white&style=flat" alt="Cisco Learn-A-Ton 25">
+  </a>
+  <br>
+  <a href="https://cert.efset.org/en/SZGV5D" target="_blank">
+    <img src="https://img.shields.io/badge/English_C1_Advanced-100%25-E040FB?logo=googletranslate&logoColor=white&style=flat" alt="English Advanced">
+  </a>
+  <br>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/Coursera-UX-fundamentals.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera_UX_Design-100%25-0056D2?logo=coursera&logoColor=white&style=flat" alt="Coursera UX">
+  </a>
+
+  <h3 style="margin-top: 20px;">🛡️ Quality and audit</h3>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml" target="_blank">
+    <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-markdown.yml/badge.svg" alt="Lint Markdown">
+  </a>
+  <br>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-python.yml" target="_blank">
+    <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-python.yml/badge.svg" alt="Lint Python">
+  </a>
+  <br>
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml" target="_blank">
+    <img src="https://github.com/kauan-horvath/turning-chaos-into-code/actions/workflows/lint-html.yml/badge.svg" alt="Lint HTML">
+  </a>
+</div>
 
 <blockquote style="margin: 0; padding-left: 10px; border-left: 3px solid #30363d;">
   <p style="font-size: 0.9em; color: #8b949e; margin: 0;">Countless hours were spent standardizing and formatting these files. LOL</p>
 </blockquote>
-<br><hr><br>
+<br>
 
 <h2>🔗 Let's Connect</h2>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" style="padding: 0">
-      <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" style="margin-bottom: 5px;" />
-      </a>
-      <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" style="margin-bottom: 5px;" />
-      </a>
-      <a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLTEuMDI2IDAtMS44NTktLjgzNC0xLjg1OS0xLjg1OXMuODMzLTEuODU5IDEuODU5LTEuODU5IDEuODU5LjgzNCAxLjg1OSAxLjg1OS0uODMzIDEuODU5LTEuODU5IDEuODU5em0xMyAxMi4yNjhoLTN2LTUuNjI3YzAtMS40MTgtLjAxMS0zLjI0Mi0xLjk3NS0zLjI0Mi0xLjk3OCAwLTIuMjgxIDEuNTQ0LTIuMjgxIDIuOTg0djUuODg0aC0zdi0xMWgzdjEuNTRoLjA0MWMuNDE3LS43OSAxLjQzNi0xLjYyMiAyLjk1NC0xLjYyMiAzLjE2IDAgMy43NDIgMi4wOCAzLjc0MiA0.jc4NHY2LjI5OHoiLz48L3N2Zz4=" alt="LinkedIn" height="25" style="margin-bottom: 5px;" />
-      </a>
-    </td>
-    <td align="right" style="padding: 0">
-      <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="24" style="margin-bottom: 8px;"/></a><a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="24" style="margin-bottom: 8px;"/></a>
-      &nbsp;&nbsp;
-      <a href="#" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/NEXT-%E2%86%92-000000?style=for-the-badge&labelColor=333333&color=000000" alt="Next" height="24" style="margin-bottom: 8px;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" />
+  </a>
+  <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
+  </a>
+</div>
+
+<p align="right">
+  <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="24"/>
+  </a>
+  <a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/NEXT-%E2%86%92-000000?style=for-the-badge&labelColor=333333&color=000000" alt="Next" height="24" />
+  </a>
+</p>
