@@ -30,15 +30,15 @@
 <h2>⚙️ System Architecture (Interactive Directory Map)</h2>
 
 <pre><code>turning-chaos-into-code/
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/assets" target="_blank">assets/</a></b>               # Recurso visuais e branding
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/care-projects" target="_blank">care-projects/</a></b>        # Aplicações end-to-end (Crown Jewels)
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run" target="_blank">knowledge-run/</a></b>        # Trilhas de aprendizado estruturado
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/assets" target="_blank">assets/</a></b>               # Visual resources and branding
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/care-projects" target="_blank">care-projects/</a></b>        # End-to-end applications (Crown Jewels)
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run" target="_blank">knowledge-run/</a></b>        # Structured learning paths
 │   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/00-planning" target="_blank">00-planning/</a>
 │   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/01-automation" target="_blank">01-automation/</a>
 │   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/02-web-stack" target="_blank">02-web-stack/</a>
 │   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/03-database" target="_blank">03-database/</a>
-│   ├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/98-experimenting" target="_blank">98-experimenting/</a></b>     # Sandbox e testes de lógica fundamental
-│   └── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/99-notes" target="_blank">99-notes/</a></b>             # Logs de decisão e dilemas de arquitetura</code></pre>
+│   ├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/98-experimenting" target="_blank">98-experimenting/</a></b>     # Sandbox and fundamental logic tests
+│   └── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/99-notes" target="_blank">99-notes/</a></b>             # Decision logs and architectural dilemmas</code></pre>
 
 <hr />
 
@@ -146,26 +146,9 @@ def hire_this_guy(coffee_included=True):
 <h2>🔗 Let's Connect</h2>
 
 <div align="left">
-  <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" />
-  </a>
-  <a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
-  </a>
+  <a href="mailto:kauanhorvath1996@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25" /></a><a href="https://wa.me/5511954920195?text=HI!%20I%20came%20from%20your%20github%20let%27s%20connect?" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" /></a><a href="https://www.linkedin.com/in/kauanhorvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
 </div>
 
 <p align="right">
-  <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="24"/>
-  </a>
-  <a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="24"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/NEXT-%E2%86%92-000000?style=for-the-badge&labelColor=333333&color=000000" alt="Next" height="24" />
-  </a>
+  <a href="https://letterboxd.com/H0rvath/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LETTERBOXD-PROFILE-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Profile" height="24"/></a><a href="https://letterboxd.com/h0rvath/reviews/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-REVIEWS-000000?style=for-the-badge&labelColor=000000" alt="Letterboxd Reviews" height="24"/></a>&nbsp;&nbsp;<a href="https://kauan-horvath.github.io/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/NEXT-%E2%86%92-000000?style=for-the-badge&labelColor=333333&color=000000" alt="Next" height="24" /></a>
 </p>
