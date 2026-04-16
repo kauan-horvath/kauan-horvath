@@ -27,10 +27,7 @@
 <blockquote>
   <strong>Need help navigating the chaos?</strong><br />
   An interactive personal AI assistant was built specifically for this repository. Check the engine's health status below and click the badge to launch the web interface and start a conversation.
-  <br><br>
-  <a href="https://kauan-horvath.github.io/turning-chaos-into-code/ai-concierge/" target="_blank">
-    <img src="https://img.shields.io/github/actions/workflow/status/kauan-horvath/turning-chaos-into-code/lint-ai-concierge.yml?label=Talk%20to%20my%20AI&style=for-the-badge" alt="Talk to my AI">
-  </a>
+  <br><br><a href="https://kauan-horvath.github.io/turning-chaos-into-code/ai-concierge/" target="_blank"><img src="https://img.shields.io/github/actions/workflow/status/kauan-horvath/turning-chaos-into-code/lint-ai-concierge.yml?label=Talk%20to%20my%20AI&style=for-the-badge" alt="Talk to my AI"></a>
 </blockquote><br>
 
 <h2>⚙️ System Architecture (Interactive Directory Map)</h2>
