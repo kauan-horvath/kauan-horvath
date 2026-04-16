@@ -25,7 +25,23 @@
   This laboratory is a systematic log of my journey through software
   engineering. Here, every script is a step toward mastering
   <strong>scalable logic</strong> and structured architecture.
-</blockquote>
+</blockquote><br>
+
+<div align="right">
+  <a href="http://127.0.0.1:3000/.vscode/ai-concierge/index.html?vscode-livepreview=true">
+    <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="2" result="blur"/>
+          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <rect x="2" y="2" width="176" height="36" rx="18" fill="#E8FFF0" stroke="#C2F0D8" stroke-width="1"/>
+      <circle cx="25" cy="20" r="4" fill="#1DB954" filter="url(#glow)" />
+      <text x="45" y="25" font-family="sans-serif" font-size="14" font-weight="600" fill="#0D683D">Ai operational</text>
+    </svg>
+  </a>
+</div>
 
 <h2>⚙️ System Architecture (Interactive Directory Map)</h2>
 
