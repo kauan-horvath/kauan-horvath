@@ -1,88 +1,76 @@
-<!-- BANNER AREA ----------------->
-
 <p align="center">
-  <a href="https://kauan-horvath.github.io/" target="_blank"><img src="assets/turning-chaos-title-2.gif" alt="banner of my git - Turning Chaos into Code" width="100%"></a>
-</p>
-
-<!-- BADGES AREA ----------------->
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"><img src="https://img.shields.io/badge/web_scraping-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="Web Scraping" /></a><a href="https://support.microsoft.com/en-us/access" target="_blank"><img src="https://img.shields.io/badge/Access-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Microsoft Access" /></a><a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/EF%20SET%20Certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/ENGLISH-ADVANCED-E040FB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Advanced" /></a>
+  <a href="https://kauan-horvath.github.io/" target="_blank"><img src="assets/turning-chaos-title-2.gif" alt="banner of my git - Turning Chaos into Code" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/github-banner-wrapped.png" height="195" style="margin-right: 0px;" alt="seila"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" alt="seila">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"><img src="https://img.shields.io/badge/web_scraping-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="Web Scraping" /></a><a href="https://support.microsoft.com/en-us/access" target="_blank"><img src="https://img.shields.io/badge/Access-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Microsoft Access" /></a><a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kauan-horvath/turning-chaos-into-code/blob/main/assets/certificates/EF%20SET%20Certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/ENGLISH-ADVANCED-E040FB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Advanced" /></a>
 </p>
 
-<!-- TEXTS AREA ----------------->
+<p align="center">
+  <img src="assets/github-banner-wrapped.png" height="195" style="margin-right: 0px;" alt="seila"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauan-Horvath&theme=dark&bg_color=0D1117&stroke=2EA043&fire_color=F05033&curr_streak_color=F05033&side_nums_color=FFFFFF&side_labels_color=8B949E&dates_color=6E7681&hide_border=true&v=30" height="195" alt="seila">
+</p>
 
 <h2>💡 The Concept</h2>
 
 <blockquote>
-  <strong>Turning raw ideas into reliable code.</strong><br />
-  This laboratory is a systematic log of my journey through software
-  engineering. Here, every script is a step toward mastering
-  <strong>scalable logic</strong> and structured architecture.
+  <strong>Turning raw ideas into reliable code.</strong><br />
+  This laboratory is a systematic log of my journey through software
+  engineering. Here, every script is a step toward mastering
+  <strong>scalable logic</strong> and structured architecture.
 </blockquote><br>
 
-<div align="right">
-  <a href="http://127.0.0.1:3000/.vscode/ai-concierge/index.html?vscode-livepreview=true">
-    <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-          <feGaussianBlur stdDeviation="2" result="blur"/>
-          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-        </filter>
-      </defs>
-      <rect x="2" y="2" width="176" height="36" rx="18" fill="#E8FFF0" stroke="#C2F0D8" stroke-width="1"/>
-      <circle cx="25" cy="20" r="4" fill="#1DB954" filter="url(#glow)" />
-      <text x="45" y="25" font-family="sans-serif" font-size="14" font-weight="600" fill="#0D683D">Ai operational</text>
-    </svg>
-  </a>
-</div>
+<h2>🤖 AI Concierge</h2>
+
+<blockquote>
+  <strong>Need help navigating the chaos?</strong><br />
+  An interactive personal AI assistant was built specifically for this repository. Check the engine's health status below and click the badge to launch the web interface and start a conversation.
+  <br><br>
+  <a href="https://kauan-horvath.github.io/turning-chaos-into-code/ai-concierge/" target="_blank">
+    <img src="https://img.shields.io/github/actions/workflow/status/kauan-horvath/turning-chaos-into-code/lint-ai-concierge.yml?label=Talk%20to%20my%20AI&style=for-the-badge" alt="Talk to my AI">
+  </a>
+</blockquote><br>
 
 <h2>⚙️ System Architecture (Interactive Directory Map)</h2>
 
 <pre><code>turning-chaos-into-code/
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/assets" target="_blank">assets/</a></b>               # Visual resources and branding
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/care-projects" target="_blank">care-projects/</a></b>        # End-to-end applications (Crown Jewels)
-├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run" target="_blank">knowledge-run/</a></b>        # Structured learning paths
-│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/00-planning" target="_blank">00-planning/</a>
-│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/01-automation" target="_blank">01-automation/</a>
-│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/02-web-stack" target="_blank">02-web-stack/</a>
-│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/03-database" target="_blank">03-database/</a>
-│   ├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/98-experimenting" target="_blank">98-experimenting/</a></b>     # Sandbox and fundamental logic tests
-│   └── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/99-notes" target="_blank">99-notes/</a></b>             # Decision logs and architectural dilemmas</code></pre>
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/assets" target="_blank">assets/</a></b>               # Visual resources and branding
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/care-projects" target="_blank">care-projects/</a></b>        # End-to-end applications (Crown Jewels)
+├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run" target="_blank">knowledge-run/</a></b>        # Structured learning paths
+│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/00-planning" target="_blank">00-planning/</a>
+│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/01-automation" target="_blank">01-automation/</a>
+│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/02-web-stack" target="_blank">02-web-stack/</a>
+│   ├── 📁 <a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/03-database" target="_blank">03-database/</a>
+│   ├── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/98-experimenting" target="_blank">98-experimenting/</a></b>     # Sandbox and fundamental logic tests
+│   └── 📁 <b><a href="https://github.com/kauan-horvath/turning-chaos-into-code/tree/main/knowledge-run/99-notes" target="_blank">99-notes/</a></b>             # Decision logs and architectural dilemmas</code></pre>
 
 <hr />
-
-<!-- HR Appeal Section ----------------->
 
 ```python
 # HR.exe has stopped searching. Match found.
 KAUAN_DATA = {
-    "Email": "kauanhorvath1996@gmail.com",
-    "WhatsApp": "+55 11 95492-0195",
-    "Status": "Available (maybe) and Highly Caffeinated",
+    "Email": "kauanhorvath1996@gmail.com",
+    "WhatsApp": "+55 11 95492-0195",
+    "Status": "Available (maybe) and Highly Caffeinated",
 }
 
 
 def hire_this_guy(coffee_included=True):
-    if coffee_included:
-        print(">> DEPLOYING OFFER...")
-        for platform, link in KAUAN_DATA.items():
-            print(f"fetch('{platform}') -> {link}")
-        return "Welcome aboard!"
+    if coffee_included:
+        print(">> DEPLOYING OFFER...")
+        for platform, link in KAUAN_DATA.items():
+            print(f"fetch('{platform}') -> {link}")
+        return "Welcome aboard!"
 
-    raise Exception("""
-        [ CRITICAL FAILURE ] Error 402: Coffee Required.
-        ================================================
-        > FIX ACTION : Deploy offer or send a direct message.
-        > CONNECTION : https://linkedin.com/in/kauanhorvath
-        ================================================
-        """)
+    raise Exception("""
+        [ CRITICAL FAILURE ] Error 402: Coffee Required.
+        ================================================
+        > FIX ACTION : Deploy offer or send a direct message.
+        > CONNECTION : [https://linkedin.com/in/kauanhorvath](https://linkedin.com/in/kauanhorvath)
+        ================================================
+        """)
 ```
 
 <div align="left">
@@ -106,7 +94,8 @@ def hire_this_guy(coffee_included=True):
 
 <p align="left">
   <span style="font-size: 2em; font-weight: bold;">🎓 Education & Technical Certifications</span><br>
-</p><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.9em; color: #8b949e;">(click to access the <em><strong>finished</strong></em> courses certificates)</span></p>
+</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.9em; color: #8b949e;">(click to access the <em><strong>finished</strong></em> courses certificates)</span></p>
 
 <div align="left">
   <h3 style="margin-top: 0;">01 - Automation & Data</h3>
