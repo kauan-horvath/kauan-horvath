@@ -28,7 +28,7 @@
   <strong>Need help navigating the chaos?</strong><br />
   An interactive personal AI assistant was built specifically for this repository. Check the engine's health status below and click the badge to launch the web interface and start a conversation.
   <br><br>
-  <a href="https://kauan-horvath.github.io/turning-chaos-into-code/care-projects/ai-concierge/" target="_blank">
+  <a href="https://kauan-horvath.github.io/turning-chaos-into-code/care-projects/ai-concierge/" target="_blank" rel="noopener noreferrer" class="contact-btn">
     <img src="https://img.shields.io/badge/Talk%20to%20my%20AI-ONLINE-success?style=for-the-badge&logo=android" alt="Talk to my AI">
   </a>
 </blockquote><br>
